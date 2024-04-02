@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄 Pronouns: he/him
+- 🌱 I'm studying Computer Science at University of Toronto
+- 📫 How to reach me: [@hritikshuklas](https://www.linkedin.com/in/hritikshuklas/) on LinkedIn!
+
 <!--
 **hritikshuklas/hritikshuklas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
